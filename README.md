@@ -1,4 +1,11 @@
 ### Hi there 👋
+## 👋 Welcome to my GitHub!
+
+### A few things about me...
+
+* I'm currently looking for work.
+* I'm currently developing software for dish network.
+* Talk to me about social dynamics and leadership!
 
 <!--
 **johnnybluhm/johnnybluhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
