@@ -4,7 +4,6 @@
 ### A few things about me...
 
 * I'm currently looking for work.
-* I'm currently developing software for Geico.
 * I'm an avid cyclist and love riding my bike in the mountains.
 
 <!--
